@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on [:point_righ:](https://github.com/FrknBerk/JavaSpringbootHRMS)
+- 🔭 I’m currently working on [:point_right:](https://github.com/FrknBerk/JavaSpringbootHRMS)
 - 🌱 I’m currently learning REACT
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
