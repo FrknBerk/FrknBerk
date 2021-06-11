@@ -4,12 +4,12 @@
 
 - 🔭 I’m currently working on HRMS-REACT
 - 🌱 I’m currently learning REACT
-- 👯 I’m looking to collaborate on ...
+<!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...-->
 
 
 
@@ -32,27 +32,19 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?   user=FrknBerk&background=141321&fire=D93A7C&ring=D93A7C&currStreakNum=A9FEF7&currStreakLabel=A9FEF7&sideNums=A9FEF7&sideLabels=A9FEF7&dates=F7D747&border=D93A7C&stroke=D93A7C)](https://git.io/streak-stats">
 </p>
 
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?   user=FrknBerk&background=141321&fire=D93A7C&ring=D93A7C&currStreakNum=A9FEF7&currStreakLabel=A9FEF7&sideNums=A9FEF7&sideLabels=A9FEF7&dates=F7D747&border=D93A7C&stroke=D93A7C)](https://git.io/streak-stats)-->
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrknBerk&show_icons=true&theme=radical)-->
-
 
 <h3 align="center">Connect with me 👇</h3>
 
 
 
 <p align="center">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/furkanberkakdas"/>
+<img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=furkanbrkakdas@outlook.com" />
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FrknBerk&color=green">
 </p>
-
-
-
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrknBerk&repo=FrknBerk)](https://github.com/denemetest06/FrknBerk)-->
 
 
