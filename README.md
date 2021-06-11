@@ -24,7 +24,7 @@
  
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrknBerk&show_icons=true&theme=radical&line_height=30">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrknBerk&show_icons=true&theme=radical&line_height=35">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FrknBerk&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
